@@ -17,4 +17,4 @@ This application was developed using IntelliJ IDEA, an Integrated Development En
 
 - **Implement File I/O**: Integrate functionality to save and load events from a file, enabling persistent storage of data.
 - **GUI Development**: Develop a graphical user interface using JavaFX to enhance user interaction and accessibility.
-- **Expand Event Functionality**: Add features to edit and delete events, improving the scheduler's flexibility and user control.
+- **Expand Event Functionality**: Add features to help edit and delete events, improving the scheduler's flexibility and user control.
